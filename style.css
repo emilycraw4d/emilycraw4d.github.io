@@ -1,0 +1,11 @@
+.headshot {
+    border-radius: 50%;
+    height: 50%;
+    width: 100%;
+}
+
+.about-me {
+    background-color:aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
